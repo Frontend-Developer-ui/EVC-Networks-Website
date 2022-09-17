@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+  outline: 0;
+  border: 0;
+}
+body {
+  height: 100vh;
+  font-family: Aerial, Helvetica, sans-sans-serif;
+  display: grid;
+  place-items: center;
+}
+h1 {
+  margin-bottom: 2rem;
+}
+
+input,
+select,
+textarea {
+  padding: 1.4rem;
+  background: transparent;
+  border: 1px solid black;
+}
+a:-webkit-any-link {
+    color: green;
+    cursor: pointer;
+    text-decoration: none;
+  }
