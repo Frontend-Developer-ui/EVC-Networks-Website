@@ -201,4 +201,9 @@ body {
     padding-left: 60px;
 
 }
+a:-webkit-any-link {
+    color: green;
+    cursor: pointer;
+    text-decoration: none;
+}
 
