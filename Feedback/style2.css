@@ -81,9 +81,3 @@ body {
   font-size: 30px;
   margin-bottom: 10px;
 }
-
-a:-webkit-any-link {
-    color: black;
-    cursor: pointer;
-    text-decoration: none;
-}
