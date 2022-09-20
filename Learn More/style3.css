@@ -46,7 +46,7 @@ body {
   padding: 10px 20px;
   font-size: 18px;
   color: green;
-  background-color: lightgreen;
+  background-color: #90EE90;
   outline: none;
   border: none;
   cursor: pointer;
@@ -55,7 +55,7 @@ body {
 .btn button:hover {
   color: green;
   border: 2px solid lightgreen;
-  background-color: lightgreen;
+  background-color: none;
 }
 
 .form
