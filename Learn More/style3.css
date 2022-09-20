@@ -55,7 +55,7 @@ body {
 .btn button:hover {
   color: green;
   border: 2px solid lightgreen;
-  background-color: transparent;
+  background-color: lightgreen;
 }
 
 .form
@@ -110,7 +110,7 @@ body {
 
 	padding: 15px;
 
-  border: green;
+  border: none;
 
   background: coral;
 
