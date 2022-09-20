@@ -121,3 +121,9 @@ a:-webkit-any-link {
     cursor: pointer;
     text-decoration: none;
 }
+
+img[Attributes Style] {
+    width: 250px;
+    aspect-ratio: auto 250 / 250;
+    height: 250px;
+}
